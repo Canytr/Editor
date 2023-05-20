@@ -19,3 +19,6 @@ This project is a text editor developed using the Qt framework. It will provide 
 -Since the project is in the development phase, your feedback, suggestions, and bug reports are highly appreciated on GitHub.  
 
 We look forward to your participation!"
+
+## Attention
+This is a new project, and we encourage you to stay tuned as we continue to add exciting features and enhancements. Your ongoing support and interest are greatly appreciated. Please check back regularly for updates and follow the progress of this project. Thank you!"
