@@ -3,7 +3,7 @@ This project is a text editor developed using the Qt framework. It will provide 
 
 # Features:
 
--Simple and user-friendly interface.
+-Simple and user-friendly interface. \n
 -Text file creation, editing, saving, and opening operations.
 -Text editing functionalities like Cut, Copy, Paste.
 -Advanced text editing features such as auto-completion and syntax highlighting.
