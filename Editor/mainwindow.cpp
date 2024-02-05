@@ -12,6 +12,7 @@ MainWindow::MainWindow(QWidget *parent)
     createActions();
     activateStatusBar();
     setCurrentFile(QString());
+    this->setWindowTitle("Editor");
 }
 
 MainWindow::~MainWindow()
